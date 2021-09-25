@@ -1,0 +1,1 @@
+Exercícios da disciplina **Linguagens de Programação** do Curso de *Sistemas de Informação* da Universidade FUMEC.
